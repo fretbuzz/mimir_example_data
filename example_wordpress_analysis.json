@@ -1,5 +1,5 @@
 {
-    "pod_creation_log_name": "wordpress_one_v2_nonauto_mk2_cluster_creation_log.txt", 
+    "pod_creation_log_name": "example_wordpress_cluster_creation_log.txt", 
     "setup": {}, 
     "experiment_length_sec": 10800, 
     "exfiltration_info": {
@@ -65,6 +65,6 @@
         "number_background_locusts": "85"
     }, 
     "application_name": "wordpress", 
-    "pcap_file_name": "wordpress_one_v2_nonauto_mk2_default_bridge_any.pcap", 
+    "pcap_file_name": "example_wordpress.pcap", 
     "network_plugin": "none"
 }
