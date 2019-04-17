@@ -7,5 +7,5 @@
     }, 
     "experiment_name": "wordpress_one", 
     "application_name": "wordpress", 
-    "pcap_file_name": "example_wordpress.pcap", 
+    "pcap_file_name": "example_wordpress.pcap"
 }
