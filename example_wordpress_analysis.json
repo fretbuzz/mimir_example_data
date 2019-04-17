@@ -1,5 +1,6 @@
 {
     "pod_creation_log_name": "example_wordpress_cluster_creation_log.txt", 
+    "exfiltration_info": {
         "sensitive_ms": [
             "my-release-pxc"
         ]
