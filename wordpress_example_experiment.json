@@ -1,0 +1,12 @@
+{
+  "cur_experiment_name": "wordpress_example_final",
+  "exp_config_file": "mimir_example_data/wordpress_example_final.json",
+  "netsec_policy": "none",
+
+  "make_edgefiles": true,
+  "skip_graph_injection": false,
+  "calc_vals": true,
+  "calculate_z_scores": true,
+  "get_endresult_from_memory": false,
+  "auto_open_pdfs": false
+}
